@@ -1,16 +1,15 @@
+
+
+
+
 ### Hi there 👋
 
-<!--
-**gdunn/gdunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Geoffrey Dunn. But please call me Geoff! I'm an Agile Coach working for ResMed in Sydney, Australia.
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdunn" alt="gdunn" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning **GitHub!**
+- 📝 I regularly write articles on [http://team-agile.com](http://team-agile.com)
+- 📫 How to reach me **geoff@team-agile.com**
+- ⚡ Fun fact: I regularly help officiate Rollerderby games 
